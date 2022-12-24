@@ -116,7 +116,7 @@ Or you can install manually:
 cd /tmp/
 curl -L -O https://aur.archlinux.org/cgit/aur.git/snapshot/ucg.tar.gz
 tar -xvf ucg.tar.gz
-cd ycg
+cd ucg
 makepkg -sri
 ```
 <!-- COMING SOON
